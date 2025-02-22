@@ -1,1 +1,1 @@
-# Maze
+print("Hello world")
